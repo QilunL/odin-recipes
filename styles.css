@@ -1,0 +1,52 @@
+#title{
+    font-size: 48px;
+    color: maroon;
+    text-align: center;
+}
+
+div.recipes{
+    text-align: center;
+}
+
+ul.recipes{
+    font-size: 36px;
+    color: yellowgreen;
+    text-align: left;
+    display: inline-block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.chef{
+    width: 600px;
+    height: auto;
+    margin: auto;
+    display: block;
+}
+
+.meatloaf{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.hashbrown{
+    font-size: 30px;
+    font-family: monospace;
+
+}
+.lasagna{
+    font-size: 30px;
+    font-family: fantasy;
+
+}
+
+h1{
+    font-size: 60px;
+}
+
+h2{
+    font-size: 50px;
+}
+
+h3{
+    font-size: 40px;
+}
